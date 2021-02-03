@@ -1,2 +1,2 @@
-# afocelot.github.io
-Photography Portfolio
+# afoce.github.io
+Personal website
